@@ -1,0 +1,31 @@
+{
+    "name": "learning-gulp",
+    "version": "1.0.0",
+    "description": "Repositório de estudo sobre o automatizador de tarefas Gulp.",
+    "main": "",
+    "scripts": {
+        "start": "",
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/matheusFTC/learning-gulp.git"
+    },
+    "keywords": [
+        "gulp",
+        "pug",
+        "stylus"
+    ],
+    "author": "Matheus Filipe T. Chaves <matheus.02468@gmail.com>",
+    "license": "Unlicense",
+    "bugs": {
+        "url": "https://github.com/matheusFTC/learning-gulp/issues"
+    },
+    "homepage": "https://github.com/matheusFTC/learning-gulp#readme",
+    "devDependencies": {
+        "browser-sync": "^2.18.13",
+        "gulp": "^3.9.1",
+        "gulp-pug": "^3.3.0",
+        "gulp-stylus": "^2.6.0"
+    }
+}
